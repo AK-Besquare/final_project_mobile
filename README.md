@@ -1,6 +1,6 @@
 # final_project
 
-A new Flutter project.
+Mobile Final Project.
 
 ## Getting Started
 
